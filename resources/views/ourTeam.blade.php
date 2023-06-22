@@ -11,8 +11,8 @@
       <div class="card" style="width: 23rem;">
         <img src="images/foto1.jpeg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Mifzal Novel</h5>
-          <p class="card-text">082111633082</p>
+          <h5 class="card-title">Name</h5>
+          <p class="card-text">....</p>
         </div>
       </div>
     </div>
@@ -20,8 +20,8 @@
       <div class="card" style="width: 23rem;">
         <img src="images/foto2.jpeg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Ach Sahal Septiananda</h5>
-          <p class="card-text">082111633099</p>
+          <h5 class="card-title">Name</h5>
+          <p class="card-text">....</p>
         </div>
       </div>
     </div>
