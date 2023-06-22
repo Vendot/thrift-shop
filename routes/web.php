@@ -33,7 +33,7 @@ use SebastianBergmann\CodeCoverage\Report\Html\Dashboard;
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/product', [ProductController::class, 'index'])->name('product');
 Route::get('/aboutUs', [AboutUsController::class, 'index'])->name('aboutUs');
-Route::get('/ourTeam', [OurTeamController::class, 'index'])->name('ourTeam');
+// Route::get('/ourTeam', [OurTeamController::class, 'index'])->name('ourTeam');
 Route::get('/contact', [ContactController::class, 'index'])->name('contact');
 
 Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard')->middleware('auth');

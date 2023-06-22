@@ -17,9 +17,9 @@
         <li class="nav-item">
           <a style="color:white;" class="nav-link" href="{{ route('cart') }}">Cart</a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a style="color:white;" class="nav-link" href="{{ route('aboutUs') }}">About Us</a>
-        </li>
+        </li> -->
         <li class="nav-item">
           <a style="color:white;" class="nav-link" href="{{ route('ourTeam') }}" tabindex="-1" aria-disabled="true">Our Team</a>
         </li>
